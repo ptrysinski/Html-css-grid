@@ -1,0 +1,42 @@
+*{
+    margin 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    background: gainsboro;
+}
+
+#container{
+    width: 1000px;
+    margin: 0 auto;
+    background: white;
+}
+
+header{
+    background: lightblue;
+}
+
+nav{
+    background: pink;
+}
+
+footer{
+    background: lightcoral;
+    clear: both;
+}
+main{
+    background: yellow;
+    width: 60%;
+    float: left;
+}
+aside{
+    background: purple;
+    width: 40%;
+    float:left;
+}
+
+.clear{
+    clear: both;
+}
